@@ -1,0 +1,9 @@
+package comparable;
+
+public class Student_Main {
+
+	public static void main(String[] args) {
+		List<Student> list=new ArrayList<>();
+	}
+
+}

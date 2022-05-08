@@ -1,0 +1,32 @@
+1651570230543	Copy compilation unit
+1651595028762	Copy compilation unit
+1651595307009	Copy compilation unit
+1651595734243	Move compilation unit
+1651595739486	Move compilation unit
+1651595750400	Move compilation unit
+1651595757591	Move compilation unit
+1651595764657	Move compilation unit
+1651596081665	Rename package 'Comparable'
+1651681513960	Copy compilation unit
+1651681614355	Extract local variable 'predicate'
+1651681623900	Extract local variable 'mapper'
+1651681633198	Extract local variable 'action'
+1651682426254	Copy compilation unit
+1651682513303	Rename type 'Ex1_Functional_Interface'
+1651682571691	Extract local variable 'binaryOperator'
+1651683142452	Extract local variable 'maximum'
+1651683738944	Copy compilation unit
+1651683814524	Extract local variable 'evenpredicate'
+1651683881301	Extract local variable 'oddpredicate'
+1651683899890	Extract method 'extracted'
+1651684057758	Copy compilation unit
+1651684084074	Rename type 'Ex2_Functional_Interface_BehaviorParameterization2'
+1651684145631	Extract local variable 'mapper'
+1651684158837	Extract method 'extracted'
+1651763974479	Copy compilation unit
+1651767975575	Copy compilation unit
+1651838765711	Copy compilation unit
+1651839305361	Rename resource 'Myfile'
+1651839371487	Delete element
+1651839635835	Move file
+1651840658335	Copy compilation unit
